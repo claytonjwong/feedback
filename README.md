@@ -45,3 +45,37 @@ Feedback reception occurs at the conflicting convergence of our two needs:
 * higher job satisfaction
 * higher job performance ratings
 * show good examples for our children to mimic
+
+## Three Triggers (that block feedback)
+
+When we are emotionally comprimised, we cannot properly think or learn, thus we defend, attack, withdraw, deny, etc. which inhibits us from engaging in a skillful conversation to proplerly receive feedback.
+
+### 1. Truth Triggers
+
+Truth triggers occur based upon the content of the feedback.
+
+1. **Our first task is to understand the feedback.  There's 3 types of feedback:**
+   * appreciation
+   * coaching
+   * evaluation
+2. **We have blind spots:**
+   * we are blind to certain things about ourselves
+   * we are blind to the fact that we are blind (double ignorance)
+   * our blind spots are obvious to others
+
+### 2. Relationship Triggers
+
+1. **Dynamic Switchtracking**
+    * changing the topic dynamically in converation
+    * don't focus on more than one topic at at time
+2. **Relationship System**
+    * Neither participant in a relationship may see they are both caught in a negatively reinforcing loop in which each participant contributes towards the problem
+
+### 3. Identity Triggers
+
+1. **Wiring and Temperment**
+   * Our identity is established through the story we tell ourselves about ourselves.  Understanding our individual wiring patterns and temperment allows us to more clearly see why we react in the ways we do as feedback receivers.
+2. **Dismantle Distortions**
+    * We often respond to our distorted perception of the feedback, not the feedback itself.
+3. **Cultivate a Growth Identity**
+    * Welcome input since it allows us to continually improve
