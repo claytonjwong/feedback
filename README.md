@@ -79,3 +79,50 @@ Truth triggers occur based upon the content of the feedback.
     * We often respond to our distorted perception of the feedback, not the feedback itself.
 3. **Cultivate a Growth Identity**
     * Welcome input since it allows us to continually improve
+
+## Truth Triggers (and the challenge to SEE)
+
+⭐ **Question:** Why is it that often as **feedback givers**, we **feel right**; but as **feedback receivers**, we **feel wrong**?
+
+Truth triggers are created by our intelluctual and emotional reactions to "wrong feedback."
+
+## Truth Triggers: Separate Appreciation, Coaching, and Evaluation
+
+### The Paradox of our Reactions
+
+As feedback receivers, we may sometimes feel positive, energetic, and well; and other times feel negative, sapped, and unwell.  These reactions are tightly coupled to our interpretation of the feedback.
+
+### Three Kinds of Feedback: Appreciation, Coaching, Evaluation
+
+Each kind of feedback serves its own purpose and has unique challenges.
+
+#### 1. Appreciation
+
+Appreciation is motivating and energizing:
+
+* thanks
+* wow, look at you
+* you've been working hard
+* you matter
+
+#### 2. Coaching
+
+Coaching satisifies 2 needs:
+
+1. knowledge, skillset, and capability improvement
+2. problem identification in relationships
+  a. created by painful emotions (hurt, fear, anxiety, anger, confusion, loneliness, etc.)
+  b. something is "missing" or "wrong" in the relationship
+  c. the "problem" is how the feedback giver feels (a perceived inbalance in the relationship)
+
+#### 3. Evaluation
+
+Evaluations are implicit and explicit comparisons against specific criteria (our colleagues' performance or company standards).
+
+* tells you where you stand, so we can feel safe and sound
+* align expectations
+* clarify consequences
+* informs decision making
+
+Evaluations can contain judgements which reach beyond the original assessment, and combined with our opinion, negative judgements are a significant source of our anxiety towards receiving feedback.
+
