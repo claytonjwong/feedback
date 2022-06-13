@@ -126,3 +126,39 @@ Evaluations are implicit and explicit comparisons against specific criteria (our
 
 Evaluations can contain judgements which reach beyond the original assessment, and combined with our opinion, negative judgements are a significant source of our anxiety towards receiving feedback.
 
+## First Understand: Shift from "That's Wrong" to "Tell Me More"
+
+We often skip truly understanding feedback and jump straight into judgements and defensive wrong spotting.  Wrong spotting is easy because there's almost always something wrong which the feedback giver is overlooking or misunderstanding; however, wrong spotting defeats learning.  There's often a disconnect between what was heard by the feedback receiver and what was ment by the feedback giver.
+
+Feedback is initially perceived as "labels" which are generalized ideas and topics.  It is the feedback receiver's responsibility to "spot the label" and see what's underneath it.  Label spotting is easy, what's hard is remembering to do it.  Once we've identified a label, we need to fight our internal urges to fill in our own meaning about the contents of it.
+
+Underneath feedback labels there are historical and future components:
+
+1. Historical component: "here's what I noticed"
+2. Future component: "here's what you need to do"
+
+To clarify the feedback underneath the label, we need to be specific about where the feedback is historically coming from and where the feedback is headed towards in the future.
+
+### Where the Feedback is Coming From
+
+All advice is autobiographical, the feedback we give to others is based upon our own life's experiences and perceptions, ie. my feedback for you is based upon me.
+
+Feedback givers arrive at their lables in 2 ways:
+
+1. they observe data
+2. they interpret that data to tell themselves a story about what it means
+
+The process of moving from data to interepration of data is instantaneous and unconscious.
+
+### Where the feedback is Going To
+
+* Coaching feedbacks's future component is about advice
+* Evaluation feedback's future component is about consequences and expectations
+
+Given evaluation feedback, we are often *not* in a curious state of mind for learning from it.  Good questions to ask ourselves when given evaluation feedback:
+
+* What does this mean for me?
+* What will happen next, what is expected of me?
+* Given where I stand, what should I do now?
+
+Feedback givers and receives have different life data points and interpretations of those data points, so it is important to see the other's point-of-view for hollistic understanding and potential learning.  Thus difference spotting and right spotting with an open-mind is beneficial whereas wrong spotting is detrimental to understanding feedback and learning from it.
