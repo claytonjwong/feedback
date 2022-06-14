@@ -201,7 +201,7 @@ We can use our reaction to feedback as a blind spot alert.  When we notice ourse
 * What was their agenda?
 * What's wrong with them?
 
-Then we can ask ourselved:
+Then we can ask ourselves:
 
 * I wonder if this feedback is in my blind spot?
 * What do you see me doing, or failing to do, which is getting in my own way?
