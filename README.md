@@ -171,7 +171,7 @@ My Thoughts & Feelings 👉 My Intentions 👉 My Behavior 👉 My Impact on Oth
 
 * There's always a gap between how we think we present ourselves and the way others see us.
 * I judge myself based on my intentions, others judge me based on my impacts on them.
-* My behavior is my awareness is *not* the same as my behavior in other's awareness
+* My behavior in my awareness is *not* the same as my behavior in other's awareness
 
 ### Behavioral Blind Spots
 
