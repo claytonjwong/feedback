@@ -162,3 +162,59 @@ Given evaluation feedback, we are often *not* in a curious state of mind for lea
 * Given where I stand, what should I do now?
 
 Feedback givers and receives have different life data points and interpretations of those data points, so it is important to see the other's point-of-view for hollistic understanding and potential learning.  Thus difference spotting and right spotting with an open-mind is beneficial whereas wrong spotting is detrimental to understanding feedback and learning from it.
+
+## See Your Blind Spots: Discover How You Come Across
+
+### The Gap Map
+
+My Thoughts & Feelings 👉 My Intentions 👉 My Behavior 👉 My Impact on Others 👉 Other's Story About Me
+
+* There's always a gap between how we think we present ourselves and the way others see us.
+* I judge myself based on my intentions, others judge me based on my impacts on them.
+* My behavior is my awareness is *not* the same as my behavior in other's awareness
+
+### Behavioral Blind Spots
+
+#### Your Leaky Face (and tone of voice)
+
+* Our own face is a blind spot because we are trapped inside ourselves looking outwards.
+* We hear others through our superior temporal sulcus (STS), but the STS turns off when we hear ourselves speaking.
+* Others perceive not just *what* we are saying, but *how* we say it
+  * Facial expressions
+  * Tone of voice
+  * Body language
+
+#### Blind Spot Amplifiers
+
+1. Emotional Math
+   * Our emotions are integral in how others perceive and interact with us
+1. Situtation vs Character
+   * We judge our behaviors based upon *situations*, others judge our behaviors based upon our *character*.
+3. Intent vs Impact
+   * We judge ourselves upon our internal *intentions*, others judge us based on our external *impacts*
+   * Feedback given is often loaded with assumed intentions
+
+### What Helps Us See Our Blind Spots?
+
+We can use our reaction to feedback as a blind spot alert.  When we notice ourselves asking:
+
+* What was their agenda?
+* What's wrong with them?
+
+Then we can ask ourselved:
+
+* I wonder if this feedback is in my blind spot?
+* What do you see me doing, or failing to do, which is getting in my own way?
+  * If we respond with genuine curiosity and appreciation, feedback givers can help provide useful details to learn from as feedback receivers
+
+#### Honest vs Supportive Mirrors
+
+People we rely on for support are often hesitant to share critial, honest feedback with us since we aren't asking the mirror for an honest assessment; we're instead asking for reassurance and support.  When someone has been a supportive mirror, we can feel betrayed and blindsided when they suddendly become and honesty mirror.
+
+#### Record Yourself
+
+For many of us, watching ourselves on video or hearing ourselves on audio is unpleasant at best.  But it can be enormously illuminating, enabling us to hear our own tone and see own our behavior in ways that are normally invisible to us.
+
+#### Focus on Change from the Inside-Out
+
+Simply acknowledge the pattern that everyone already sees, and be clear you're trying hard to change.
