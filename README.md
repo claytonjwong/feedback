@@ -218,3 +218,49 @@ For many of us, watching ourselves on video or hearing ourselves on audio is unp
 #### Focus on Change from the Inside-Out
 
 Simply acknowledge the pattern that everyone already sees, and be clear you're trying hard to change.
+
+## Relationship Triggers (and the challenge of WE)
+
+We are more often triggered by the relationship we have with the person providing the feedback than the feedback itself.  Relationship triggers are the most common blockers for productive feedback conversations.  We dismiss feedback from givers with no credibility or bad intentions.
+
+The feedback giver thinks the feedback receiver is the problem and the feedback receiver thinks the feedback giver is the problem; however, the problem is often the result of differences and incompatibilities within a relationship system, ie. "we" = "you" + "me".
+
+**Questions to consider as an open-minded feedback receiver:**
+* What makes receiving feedback from "them" so hard?
+* What might I learn from this feedback regardless of who is providing it?
+
+### Relationship Triggers Create Switchtrack Conversations (Don't Switchtrack)
+
+Often feedback receivers listen long enough only to reply with feedback given in return; thus we have two feedback givers and zero feedback receivers when we switchtrack and this defeats the purpose of feedback entirely.
+
+### 3 Relationship Triggers
+
+1. What We Think About Them
+   * If we think well about someone, their feedback is "pre-approved"; otherwise their feedback is "pre-disqualified."  Once we disqualify the feedback, we immediately reject the substance of the feedback.
+   * If we don't want to be like the feedback giver, why would we listen to their "advice"?
+2. Their Credibility (they don't know what they're talking about)
+   * We can still benefit from "newcomers" with a different perspective
+3. Trust: Their Motives Are Suspect
+    * If we don't trust the feedback giver, we can treat trust and feedback content as separate topics to openly explore what might make sense about the feedback
+
+**Want to Fast-Track Your Growth?**
+
+Go directly to the folks you have the most difficult time with and ask them for feedback about what we are doing which is making the situation worse.  They will most certainly tell us since their honesty mirrors can provide us with feedback we can use to growth.
+
+### How We Feel Treated By Them
+
+**3 relationship interests which are often caught by feedback:**
+
+1. **Appreciation:** Do they see our efforts and successes?
+   * Not feeling appreciated can leave us off-balance
+2. **Autonomy:** Are we given appropriate space and control?
+    * It is helpful to realize when we are trigged by being told what to do
+3. **Acceptance:** Do they respect or accept who we are (now)?
+    * It is hard to accept feedback from folks who don't accept us the way we are now
+
+### Relationship Triggers: What helps?
+
+1. Separate Topics as Separate Discussions
+    * Talk about one thing at a time (don't switchtrack)
+2. When we receive coaching feedback, ask:
+    * Is this feedback to help me grow/improve or is this feedback raising an important relationship issue which has been upsetting the feedback giver?
