@@ -264,3 +264,46 @@ Go directly to the folks you have the most difficult time with and ask them for 
     * Talk about one thing at a time (don't switchtrack)
 2. When we receive coaching feedback, ask:
     * Is this feedback to help me grow/improve or is this feedback raising an important relationship issue which has been upsetting the feedback giver?
+
+## Identify the Relationship System: Take 3 Steps Back
+
+When we are feedback givers, we give constructive criticism.  When we are feedback receivers, we hear blame; not constructive anything.
+
+When things do go wrong in our relationship systems, we each see something the other doesn't: I tend to see what *you* did to cause it, and you tend to see what *I* did to cause it.  We each see the part of the problem which the other is contributing, and we each think the problem could be best and most easily fixed by the other person changing.  However, it takes two of us to create the problem (and to solve the problem).
+
+### 1 Step Back: You + Me Intersections
+
+Taking one step back means stepping outside your own perspective to observe the system.  Problems usually occur at the intersection of our differences.  These differences often become dynamic systems, creating downward spirals of action and reaction.
+
+### 2 Steps Back: Role Clashes and Accidental Adversaries
+
+It's not just about us, its also about the roles we play.  Accidental adversaries are created by role confusion and role clarity.  We can separate individuals from their roles by taking 2 steps back and seeing how our roles are contributing to the problem to shift our awareness.
+
+### 3 Steps Back: The Big Picture (Other Players, Processes, Policies, and Structures)
+
+The first step back looks at individual intersections, the second step back looks at individual roles, and the third step back looks at the big picture hollistically.
+
+The big picture includes 3<sup>th</sup> party participants, physical environment, processes, policies, timing, decision making, organizational structure, etc. which collectively influence behavior, decisions, and feedback.
+
+#### Benefit 1: It is More Accurate
+
+The big picture perspective corrects any single perspective by coalescing individual perspectives into a collective perspective which provides a better sense of the whole.  As we start to see how each individual affects the other, we find dependency cycles of causes for our actions and reactions.
+
+#### Benefit 2: It Moves Us Away from Unnecessary Judgement
+
+The big picture perspective makes it harder for us to be "victims" when we can more clearly see how we are contributing to the problem and the downward spiral of the relationship system.  Other's contributions to the problem are *not* automatically bad, wrong, blameworthy, etc.
+
+#### Benefit 3: Increased Accountability
+
+How can I discipline a subordinate when I myself have been contributing to the problem?
+
+* **Blame Obsorbers:** It's All Me
+* **Blame Shifters:** It's Not Me
+
+**Take Responsibility For Your Part**
+
+Figure out your contribution to the problem and take responsibility for it.
+
+**"Here's What Would Help Me Change"**
+
+Describe how the feedback giver can get a better reaction from you.  You're asking them to change, but legitimately in service of helping you change.
