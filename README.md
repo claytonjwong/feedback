@@ -307,3 +307,16 @@ Figure out your contribution to the problem and take responsibility for it.
 **"Here's What Would Help Me Change"**
 
 Describe how the feedback giver can get a better reaction from you.  You're asking them to change, but legitimately in service of helping you change.
+
+## Identity Triggers (and the challenge of being ME)
+
+Feedback can be threatening to our self identity, ie. the story we tell ourselves about ourselves.  Our individual "wiring" influences how we receive feedback.  Thus the feedback can become distorted through the story we tell ourselves about the feedback because our emotions distort the feedback reception.
+
+### 3 Components of our Reaction To Feedback
+
+1. Baseline
+   * our average mood
+2. Swing
+    * how far up & down we go
+3. Sustain / Recovery
+    * how long it takes to go back to our baseline
