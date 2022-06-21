@@ -320,3 +320,43 @@ Feedback can be threatening to our self identity, ie. the story we tell ourselve
     * how far up & down we go
 3. Sustain / Recovery
     * how long it takes to go back to our baseline
+
+## Dismantle Distortions: See Feeback at "Actual Size"
+
+Our emotions caused feedback reception to be overwhelmingly embellished.  To learn from upsetting feedback, we need to counteract feedback distortions.
+
+### 5 Ways to Dismantle Distortions
+
+1. Be prepared and mindful
+    * preview our potential reactions while in a balanced state of mind
+    * know your feedback footprint, we each have patterns of acceptance and rejection
+    * Simulation via imagination of the worst case scenarios to innoculate ourselves
+    * notice what's happening, self-observation awakens the left prefrontal-cortex (not by denying and fighting, but just noticing our thoughts)
+2. Separate the Feeling, Story, and Feedback
+    * sort through reactions to distinguish between our emotions, our story we tell ourselves, and the feedback itself
+      * what do I feel?
+        * try to name the feeling, if we name it, we have some power over it
+      * what's the story I'm telling (and inside that story, what's the threat)?
+        * pay special attention to the threat
+      * what's the actual feedback?
+        * which parts of feedback reception are part of our own embellished story and what's the intersection of that story with reality?
+        * today's story is linked to the larger stories from our past
+3. Contain the story
+    * There are a number of rules about the way the world works which we normally and unconciously follow, and when we are off-balance from upsetting feedback, these rules are forgotten and the feedback is allowed to expand in all directions without them:
+        * Time: the present doesn't change the past; the present influences the future
+        * Specificity: underperformance in one area doesn't mean underperformance in all areas, and doesn't mean we will continue to underperform in the future
+        * People: being disliked by one person doesn't mean we are disliked by all people, and folks who have disliked us in the past don't always dislike us in the future
+    * We can rebuild and reinforce the distinctions which matter by noticing which of the above rules our story is violating and revising the story to be consistent with reality
+    * As we contain the story, we see what the feedback is *not* about (everything), so we can focus on what the feedback *is* about (a few things)
+    * Right-size future consequences
+      * we often fail to distinguish between consequences which *will* happen with consequences which *might* happen
+4. Change your vantage point
+    * another perspective can be a beneficial "light" in a dark situation
+    * time travel: how relevant is this 10 years from now?
+    * humor: comedy = tragedy + time
+      * if we can see humor in a situation, then we are gaining perspective
+      * laughing at ourselves loosens our identity grip
+      * humor disrupts and calms down negative emotions
+5. Accept we can't control how others view us
+    * having compassion and empathy for others profoundly effects how we see others and their feedback
+      * think about your dad as a wounded little boy he must have been, and give that little boy a hug
