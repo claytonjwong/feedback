@@ -360,3 +360,37 @@ Our emotions caused feedback reception to be overwhelmingly embellished.  To lea
 5. Accept we can't control how others view us
     * having compassion and empathy for others profoundly effects how we see others and their feedback
       * think about your dad as a wounded little boy he must have been, and give that little boy a hug
+
+## Cultivate a Growth Identity
+
+Build an identity which is robust and feedback friendly (*not* fragile and feedback adverse).
+
+Our identity is the story we tell ourselves about ourselves; thus, feedback which contradicts our story threatens who we think we are.  However, we can all learn to hold our identity stories from more resilent perspectives via 2 strategies:
+
+1. Terminate simple identity labels and foster complexity
+2. Transition from fixed mindset to growth mindset
+
+### 1. Terminate simple identity labels and foster complexity
+* simple identity labels remind us of what matters most in our lives
+  * labels are simple because they are "all or nothing" attributes
+    * this leads to exaggered feedback distortions and/or denial
+    * black and white identity stories operate like a light switch, but life isn't that simple (there's evidence for the opposite in each perspective)
+
+#### 3 Things to Accept About Ourselves
+
+1. You will make mistakes
+    * our first inclation is to defend ourselves and/or deny it
+    * accepting takes pressure off of ourselves
+2. You have complex intentions
+    * Mixed with our positive intentions are negative intentions:
+      * self-promoting, vengence, greed, etc.
+3. You have contributed to the problem
+    * when we believe we are the "wronged party" we don't bother listening to feedback; however, we have both contributed to the problem, so we must look at the whole picture (you + me) to learn from feedback
+    * attempting to be perfect is *not* a viable way to escape negative feedback
+      * accepting our imperfections is our only choice
+
+### 2. Transition from fixed mindset to growth mindset
+
+We can consider our skills as fixed "as is" or as flexible and capable of dynamic adaptation.  Growth mindsets assume a skill can be cultivated over time.
+
+We can get better with effort, and effort matters most with the life values which matter most to us.  Challenges are opportunities for coaching and evaluation feedback to help us to improve.
